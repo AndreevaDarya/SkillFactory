@@ -37,7 +37,6 @@ def random_predict(num:int=1) -> int:
 
 
 
-
 def count_attempts(random_predict) -> int:
     """Average amount of attempts to guess the number
 
