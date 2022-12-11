@@ -59,3 +59,7 @@ def count_attempts(random_predict) -> int:
     return average
 
 print(count_attempts(random_predict))
+
+
+if __name__ == '__main__':
+    count_attempts(random_predict)
